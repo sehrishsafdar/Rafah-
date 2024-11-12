@@ -1,4 +1,4 @@
-#Fake News Detection using RoBERTa
+ # Fake News Detection using RoBERTa
 
 This project demonstrates how to fine-tune the RoBERTa model for fake news detection using two datasets: BuzzFeed and ISOT. The goal is to classify news articles as either "fake" or "real" based on their content using a pre-trained RoBERTa model.
 
