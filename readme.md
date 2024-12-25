@@ -31,15 +31,7 @@ Ensure that both datasets have a text column containing the news article content
 
 #Run the python file:
 
-This python code  will:
 
-Load and combine the BuzzFeed and ISOT datasets.
-
-Tokenize the text using RoBERTa's tokenizer.
-
-Fine-tune the RoBERTa model on the dataset.
-
-The model is trained on 50 epocs.
 
 # Model Architecture
 
