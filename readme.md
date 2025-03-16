@@ -42,12 +42,26 @@ The model uses a RoBERTa architecture for text embedding, followed by a linear c
 **Linear Classifier:** A fully connected layer that predicts whether the news is real or fake based on the embeddings from RoBERTa.
 # if you found this repository helpful please cite our paper:
 @inproceedings{safdar2024rafah,
+
+
   title={RAFAH: RoBERTa Fine-Tuned Model and a Hybrid Features Set for Fake News Detection},
+
+  
   author={Safdar, Sehrash and Wasim, Muhammad},
+
+  
   booktitle={2024 18th International Conference on Open Source Systems and Technologies (ICOSST)},
+
+  
   pages={1--6},
+
+  
   year={2024},
+
+  
   organization={IEEE}
+
+  
 }
 
 
